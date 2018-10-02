@@ -1,0 +1,29 @@
+{
+  "name": "@slymax/epm",
+  "version": "1.0.3",
+  "description": "a profile manager for exodus",
+  "main": "server.js",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "klaw": "^3.0.0",
+    "ps-node": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slymax/epm.git"
+  },
+  "bin": {
+    "epm": "./server.js"
+  },
+  "author": "slymax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slymax/epm/issues"
+  },
+  "homepage": "https://github.com/slymax/epm#readme"
+}
