@@ -1,7 +1,7 @@
 {
   "name": "@slymax/epm",
-  "version": "1.0.3",
-  "description": "a profile manager for exodus",
+  "version": "1.0.4",
+  "description": "a profile manager for the exodus crypto wallet",
   "main": "server.js",
   "dependencies": {
     "fs-extra": "^7.0.0",
